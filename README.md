@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+**Con2Mani**
 
-You can use the [editor on GitHub](https://github.com/FightTheStroke/Con2Mani/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+For those born and growing with a diagnosis of hemiplegia, the most frequent form of infantile cerebral palsy, knows how nagging it can be to hear the phrase ' repeat every day 'With two hands!': It is from this mantra that kicks off a new line of products designed around the needs of children with a diagnosis of Infantile cerebral palsy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![alt text][img1]
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FightTheStroke/Con2Mani/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[img1]: https://static1.squarespace.com/static/53f10f3ae4b0124ec1e3a087/t/5bfe9d04aa4a997165e71bbe/1543413010327/Con2ManiPNG_Pagina_01.png?format=500w
